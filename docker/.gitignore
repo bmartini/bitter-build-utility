@@ -1,0 +1,5 @@
+# xilinx install archive
+*.tar.gz
+
+# xilinx tools unpacked
+Xilinx/
